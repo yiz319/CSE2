@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////
 //Yiheng Zhu
-//Demo 0
+//Lab 01
 //Hello World Java Program
 //
 //  first compile th program 
@@ -15,7 +15,7 @@ public class HelloWorld{
   public static void main(String[] args){
       
 //  print the statement with box around it
-    System.out.println("########################");
+    System.out.println("#########################");
     System.out.println("########################");
     System.out.println("#                      #");
     System.out.println("#  Hello World 2015!!  #");
