@@ -56,3 +56,10 @@ public class CardGenerator{
  
   }
 }
+||type==type2||type==type3||type=type4||type1==type2||type1==type3||type1==type4||type2==type3||type2==type4||type3==type4
+
+
+
+
+||type==type1&type2==type4||type==type1&type3==type4||type==type2&type1==type3||type==type2&type1==type4||type==type2&type3==type4||type==type3&type1=type2||type==type3&type1==type4
+         ||type=type3&type2==type4||type==type4&type1=type2||type==type4&type1=type3||type==type4&type2==type3||type1==type2&type3=type4||type1==type3&type2==type4||type1=type4&type2==type3
